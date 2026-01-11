@@ -16,15 +16,15 @@ export const metadata: Metadata = {
     ? new URL("http://localhost:3000")
     : new URL("https://boecker.dev"),
 
-  title: "Emma Böcker | Full-stack developer, political activist and student",
+  title: "Lou Böcker | Full-stack developer, political activist and student",
   description:
-    "Emma Böcker is a full-stack developer, political activist and student from germany.",
-  keywords: ["Emma Böcker", "Full-stack developer", "Political activist"],
+    "Lou Böcker is a full-stack developer, political activist and student from germany.",
+  keywords: ["Lou Böcker", "Full-stack developer", "Political activist"],
   icons: ["/meta/icon-rounded.png"],
   openGraph: {
-    title: "Emma Böcker",
+    title: "Lou Böcker",
     description:
-      "Emma Böcker is a full-stack developer, political activist and student from germany.",
+      "Lou Böcker is a full-stack developer, political activist and student from germany.",
     type: "website",
     url: "https://boecker.dev",
     images: "/images/meta/og-image.png",

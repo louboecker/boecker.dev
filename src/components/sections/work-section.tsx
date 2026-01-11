@@ -16,7 +16,7 @@ export default function WorkSection() {
         <div className="flex flex-col gap-0">
           <HoverEffect items={projects} />
           <a
-            href="https://github.com/emmaboecker"
+            href="https://github.com/louboecker"
             target="_blank"
             className="hover:text-secondary transition duration-150 pl-2 w-max text-md font-extralight -mt-2 scale-90"
           >
@@ -54,9 +54,9 @@ const projects = [
     link: "/",
   },
   {
-    title: "Emmalink",
-    description: "A simple URL shortener with oauth support",
-    link: "https://github.com/emmaboecker/emmalink",
+    title: "Event Display",
+    description: "An app to display events from a nextcloud calendar in a view for entry halls etc.",
+    link: "https://github.com/Stadtteilzentrum-Nordstadt/event-display",
   },
   {
     title: "Minecraft Hunger Games",
@@ -78,18 +78,18 @@ const projects = [
   {
     title: "Mod Installer",
     description: "A fully web-based Minecraft Modpack installer",
-    link: "https://github.com/emmaboecker/mod-installer",
+    link: "https://github.com/louboecker/mod-installer",
   },
 ];
 
 const clients = [
   {
-    title: "Linksjugend ['solid]",
-    subtitle: "2023 - present",
-    icon: "/images/work/linksjugend.png",
+    title: "Stadtteilzentrum Nordstadt",
+    subtitle: "2024 - 2025",
+    icon: "/images/work/stadtteilzentrum-nordstadt.jpg",
     description:
       "Besides my activism there, I also do some IT for the organization and some of its state-level associations.",
-    link: "https://linksjugend-solid.de",
+    link: "https://www.stadtteil-zentrum-nordstadt.de",
   },
   {
     title: "HighBeanie",

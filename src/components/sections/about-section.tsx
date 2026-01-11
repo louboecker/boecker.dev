@@ -11,9 +11,9 @@ export default function AboutSection() {
         <div className="grid grid-cols-1 lg:grid-cols-3 mt-6 gap-10 text-xl text-text/80">
           <div className="flex flex-col gap-4">
             <p>
-              My name is Emma, I&apos;m a student, developer, system
+              My name is Lou, I&apos;m a student, developer, system
               administrator, DevOps engineer, designer and creator. I&apos;m an
-              activist striving for change.
+              activist striving for change. 
             </p>
             <p>
               I enjoy building projects on the internet, building a home here

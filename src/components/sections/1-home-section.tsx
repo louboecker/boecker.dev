@@ -17,15 +17,15 @@ export default function HomeSection() {
         <header className="flex flex-col 2xl:container justify-center mx-auto w-[90%]">
           <div className="flex flex-col mb-8">
             <h1 className="md:text-4xl text-3xl font-extralight mb-2">
-              Hey, I&apos;m Emma
+              Hey, I&apos;m Lou
             </h1>
             <h1 className="md:text-6xl text-5xl font-semibold">
-              Full-stack developer with 4+ years of experience
+              Full-stack developer with 6+ years of experience
             </h1>
           </div>
           <div className="flex flex-row text-4xl gap-2 items-center mb-6">
             <a
-              href="https://github.com/emmaboecker"
+              href="https://github.com/louboecker"
               target="_blank"
               aria-label="github page"
             >
@@ -46,7 +46,7 @@ export default function HomeSection() {
               <FaMastodon className="hover:text-primary transition-colors duration-150" />
             </a>
             <a
-              href="https://instagram.com/emma.boecker"
+              href="https://instagram.com/lou.boecker"
               target="_blank"
               aria-label="instagram profile"
             >
