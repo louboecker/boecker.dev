@@ -88,7 +88,7 @@ const clients = [
     subtitle: "2024 - 2025",
     icon: "/images/work/stadtteilzentrum-nordstadt.jpg",
     description:
-      "Besides my activism there, I also do some IT for the organization and some of its state-level associations.",
+      "Developed a display for events pulled from their nextcloud calendar to show in their entry hall",
     link: "https://www.stadtteil-zentrum-nordstadt.de",
   },
   {
