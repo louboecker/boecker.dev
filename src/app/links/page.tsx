@@ -44,7 +44,7 @@ export default function Linktree() {
           <div className="flex flex-col gap-6 items-center w-full px-4">
             <SocialButton
               text="GitHub"
-              link="https://github.com/emmaboecker"
+              link="https://github.com/louboecker"
               icon={<FaGithub />}
             />
             <SocialButton
@@ -59,7 +59,7 @@ export default function Linktree() {
             />
             <SocialButton
               text="Instagram"
-              link="https://instagram.com/emma.boecker"
+              link="https://instagram.com/lou.boecker"
               icon={<FaInstagram />}
             />
             <SocialButton
